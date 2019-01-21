@@ -1,0 +1,25 @@
+{
+  "name": "homekit-pistrips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktmock13/Homekit-PiStrips.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "homebridge": ">=0.2.5"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktmock13/Homekit-PiStrips/issues"
+  },
+  "homepage": "https://github.com/ktmock13/Homekit-PiStrips#readme"
+}
